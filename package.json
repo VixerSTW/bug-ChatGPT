@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-bot-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
